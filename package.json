@@ -1,6 +1,6 @@
 {
-  "name": "remote-redux-devtools",
-  "version": "0.5.13",
+  "name": "@ruguoapp/remote-redux-devtools",
+  "version": "0.5.15",
   "description": "Relay Redux actions to remote Redux DevTools.",
   "main": "lib/index.js",
   "files": [
@@ -57,6 +57,6 @@
     "redux-devtools-instrument": "^1.9.0",
     "remotedev-utils": "^0.1.1",
     "rn-host-detect": "^1.0.1",
-    "socketcluster-client": "https://github.com/ruguoapp/socketcluster-client.git#wxsocket"
+    "@ruguoapp/socketcluster-client": "^13.0.1"
   }
 }
